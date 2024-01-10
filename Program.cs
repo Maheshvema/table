@@ -10,7 +10,7 @@ for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{num1}*{i}=\t{(num1 * i)}");
 }
-int num2 = 6;
+int num2 = 7;
 for (int i = 1; i <= 10; i++)
 {
     Console.WriteLine($"{num2}*{i}=\t{(num2 * i)}");
